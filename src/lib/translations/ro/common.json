@@ -1,0 +1,14 @@
+{
+    "The GEMINI_API_KEY environment variable is not set.": "Variabila de mediu GEMINI_API_KEY environment nu e setată.",
+    "An error has occured": "A apărut o eroare",
+    "No data available": "Nici o dată disponibilă",
+    "Analyze brand name": "Analizează numele brandului",
+    "Enter your brand name": "Introduceți numele brandului dumneavoastră",
+    "Language": "Limba",
+    "Negative Meaning": "Conotație Negativă",
+    "Positive Meaning": "Conotație Pozitivă",
+    "Translated Meaning": "Conotație Tradusă",
+    "Similar Brand": "Brand Similar",
+    "Transliteration": "Transliterație",
+    "Terms of Service": "Termeni de Serviciu"
+}
