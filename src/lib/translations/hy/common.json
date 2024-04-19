@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY միջավայրի փոփոխականը սահմանված չէ:",
+  "An error has occured": "Սխալ է տեղի ունեցել",
+  "No data available": "Տվյալներ չկան",
+  "Analyze brand name": "Վերլուծեք ապրանքանիշի անվանումը",
+  "Enter your brand name": "Մուտքագրեք ձեր ապրանքանիշի անունը",
+  "Language": "Լեզու",
+  "Negative Meaning": "Բացասական իմաստ",
+  "Positive Meaning": "Դրական իմաստ",
+  "Translated Meaning": "Թարգմանված իմաստ",
+  "Similar Brand": "Նմանատիպ ապրանքանիշ",
+  "Transliteration": "Տառադարձություն",
+  "Terms of Service": "Ծառայությունների մատուցման պայմաններ"
+}

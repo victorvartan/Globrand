@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "La variable d'environnement GEMINI_API_KEY n'est pas définie.",
+  "An error has occured": "Une erreur est survenue",
+  "No data available": "Pas de données disponibles",
+  "Analyze brand name": "Analyser le nom de la marque",
+  "Enter your brand name": "Entrez votre nom de marque",
+  "Language": "Langue",
+  "Negative Meaning": "Sens négatif",
+  "Positive Meaning": "Signification positive",
+  "Translated Meaning": "Signification traduite",
+  "Similar Brand": "Marque similaire",
+  "Transliteration": "Translitération",
+  "Terms of Service": "Conditions d'utilisation"
+}

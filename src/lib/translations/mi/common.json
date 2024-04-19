@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Ko te taurangi taiao GEMINI_API_KEY kaore i te tautuhi.",
+  "An error has occured": "Kua puta he hapa",
+  "No data available": "Karekau he raraunga e waatea ana",
+  "Analyze brand name": "Te tātari ingoa waitohu",
+  "Enter your brand name": "Whakauruhia to ingoa waitohu",
+  "Language": "Reo",
+  "Negative Meaning": "Tikanga kino",
+  "Positive Meaning": "Tikanga Pai",
+  "Translated Meaning": "Te Tikanga Whakamaori",
+  "Similar Brand": "Waitohu rite",
+  "Transliteration": "Whakamaori",
+  "Terms of Service": "Nga Ture Ratonga"
+}

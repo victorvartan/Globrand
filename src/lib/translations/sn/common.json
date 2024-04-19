@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Iyo GEMINI_API_KEY nharaunda inosiyana haina kusetwa.",
+  "An error has occured": "Paitika chikanganiso",
+  "No data available": "Hapana data iripo",
+  "Analyze brand name": "Ongorora zita rechiratidzo",
+  "Enter your brand name": "Isa zita rako rerudzi",
+  "Language": "Mutauro",
+  "Negative Meaning": "Negative Meaning",
+  "Positive Meaning": "Positive Meaning",
+  "Translated Meaning": "Dzinoshandurwa",
+  "Similar Brand": "Similar Brand",
+  "Transliteration": "Kuturikira",
+  "Terms of Service": "Zviga zvebvumirano"
+}

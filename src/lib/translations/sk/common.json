@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Premenná prostredia GEMINI_API_KEY nie je nastavená.",
+  "An error has occured": "Objavila sa chyba",
+  "No data available": "Nie sú k dispozícii žiadne údaje",
+  "Analyze brand name": "Analyzujte názov značky",
+  "Enter your brand name": "Zadajte názov svojej značky",
+  "Language": "Jazyk",
+  "Negative Meaning": "Negatívny význam",
+  "Positive Meaning": "Pozitívny význam",
+  "Translated Meaning": "Preložený význam",
+  "Similar Brand": "Podobná značka",
+  "Transliteration": "Prepis",
+  "Terms of Service": "Podmienky služby"
+}

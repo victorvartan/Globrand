@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY ఎన్విరాన్మెంట్ వేరియబుల్ సెట్ చేయబడలేదు.",
+  "An error has occured": "ఒక లోపం సంభవించింది",
+  "No data available": "సమాచారం అందుబాటులో లేదు",
+  "Analyze brand name": "బ్రాండ్ పేరును విశ్లేషించండి",
+  "Enter your brand name": "మీ బ్రాండ్ పేరును నమోదు చేయండి",
+  "Language": "భాష",
+  "Negative Meaning": "ప్రతికూల అర్థం",
+  "Positive Meaning": "సానుకూల అర్థం",
+  "Translated Meaning": "అనువదించబడిన అర్థం",
+  "Similar Brand": "ఇలాంటి బ్రాండ్",
+  "Transliteration": "లిప్యంతరీకరణ",
+  "Terms of Service": "సేవా నిబంధనలు"
+}

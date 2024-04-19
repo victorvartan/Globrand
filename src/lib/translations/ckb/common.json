@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "گۆڕاوەی ژینگەی GEMINI_API_KEY دانەنراوە.",
+  "An error has occured": "هەڵەیەک ڕوویداوە",
+  "No data available": "هیچ زانیاریەک بەردەست نییە",
+  "Analyze brand name": "شیکاری ناوی مارکە",
+  "Enter your brand name": "ناوی براندەکەت بنووسە",
+  "Language": "زمان",
+  "Negative Meaning": "واتای نەرێنی",
+  "Positive Meaning": "واتای ئەرێنی",
+  "Translated Meaning": "واتای وەرگێڕدراو",
+  "Similar Brand": "مارکەی هاوشێوە",
+  "Transliteration": "وەرگێڕان",
+  "Terms of Service": "مه‌رجه‌کانی خزمه‌تگوزاری"
+}

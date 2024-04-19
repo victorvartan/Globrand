@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Níl an athróg timpeallachta GEMINI_API_KEY socraithe.",
+  "An error has occured": "Tharla earráid",
+  "No data available": "Níl aon sonraí ar fáil",
+  "Analyze brand name": "Déan anailís ar ainm branda",
+  "Enter your brand name": "Cuir isteach d'ainm branda",
+  "Language": "Teanga",
+  "Negative Meaning": "Brí Diúltach",
+  "Positive Meaning": "Brí Dearfach",
+  "Translated Meaning": "Brí Aistrithe",
+  "Similar Brand": "Branda Similar",
+  "Transliteration": "Traslitriú",
+  "Terms of Service": "Tearmaí Seirbhís"
+}

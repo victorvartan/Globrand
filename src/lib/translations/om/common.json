@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Jijjiiramaan naannoo GEMINI_API_KEY hin saagamne.",
+  "An error has occured": "Dogoggorri uumameera",
+  "No data available": "Daataan hin jiru",
+  "Analyze brand name": "Maqaa maqaa (brand name) xiinxaluu",
+  "Enter your brand name": "Maqaa maqaa daldalaa keessanii galchaa",
+  "Language": "Afaan",
+  "Negative Meaning": "Hiika Negaatiivii",
+  "Positive Meaning": "Hiika Gaarii",
+  "Translated Meaning": "Hiika Hiikaa",
+  "Similar Brand": "Maqaa Wal Fakkaatu",
+  "Transliteration": "Jecha hiikuu",
+  "Terms of Service": "Haala Tajaajilaa"
+}

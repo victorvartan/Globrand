@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Varijabla okruženja GEMINI_API_KEY nije postavljena.",
+  "An error has occured": "Došlo je do greške",
+  "No data available": "Nema dostupnih podataka",
+  "Analyze brand name": "Analizirajte naziv brenda",
+  "Enter your brand name": "Unesite naziv vaše robne marke",
+  "Language": "Jezik",
+  "Negative Meaning": "Negativno značenje",
+  "Positive Meaning": "Pozitivno značenje",
+  "Translated Meaning": "Prevedeno značenje",
+  "Similar Brand": "Similar Brand",
+  "Transliteration": "Transliteracija",
+  "Terms of Service": "Uslovi korištenja"
+}

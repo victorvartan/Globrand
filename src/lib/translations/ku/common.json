@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Guherbara jîngehê GEMINI_API_KEY nayê danîn.",
+  "An error has occured": "Çewtiyek çêbû",
+  "No data available": "Daneyên berdest nînin",
+  "Analyze brand name": "Navê brandê analîz bikin",
+  "Enter your brand name": "Navê marqeya xwe binivîse",
+  "Language": "Ziman",
+  "Negative Meaning": "Wateya Negative",
+  "Positive Meaning": "Wateya Positive",
+  "Translated Meaning": "Wateya Wergerandin",
+  "Similar Brand": "Brand similar",
+  "Transliteration": "Transliteration",
+  "Terms of Service": "Mercên Xizmetê"
+}

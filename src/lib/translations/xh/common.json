@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "I-GEMINI_API_KEY imo eguquguqukayo ayimiselwanga.",
+  "An error has occured": "Kwenzeke impazamo",
+  "No data available": "Akukho datha ikhoyo",
+  "Analyze brand name": "Hlalutya igama lebhrendi",
+  "Enter your brand name": "Faka igama lebhrendi yakho",
+  "Language": "Ulwimi",
+  "Negative Meaning": "Intsingiselo Engalunganga",
+  "Positive Meaning": "Intsingiselo Elungileyo",
+  "Translated Meaning": "Intsingiselo Eguquliweyo",
+  "Similar Brand": "Uphawu olufanayo",
+  "Transliteration": "Uguqulelo",
+  "Terms of Service": "Imimmisele yenkonzo"
+}

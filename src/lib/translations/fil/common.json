@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Hindi nakatakda ang GEMINI_API_KEY environment variable.",
+  "An error has occured": "May naganap na error",
+  "No data available": "Walang available na data",
+  "Analyze brand name": "Suriin ang pangalan ng tatak",
+  "Enter your brand name": "Ilagay ang iyong brand name",
+  "Language": "Wika",
+  "Negative Meaning": "Negatibong Kahulugan",
+  "Positive Meaning": "Positibong Kahulugan",
+  "Translated Meaning": "Isinalin na Kahulugan",
+  "Similar Brand": "Katulad na Brand",
+  "Transliteration": "Transliterasyon",
+  "Terms of Service": "Mga Tuntunin ng Serbisyo"
+}

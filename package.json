@@ -39,6 +39,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@google-cloud/translate": "^8.2.0",
 		"@google/generative-ai": "^0.3.1",
 		"@zerodevx/svelte-toast": "^0.9.5",
 		"sveltekit-i18n": "^2.4.2"

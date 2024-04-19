@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "La mediovariablo GEMINI_API_KEY ne estas agordita.",
+  "An error has occured": "Eraro okazis",
+  "No data available": "Neniuj datumoj haveblaj",
+  "Analyze brand name": "Analizu markon",
+  "Enter your brand name": "Enigu vian markon",
+  "Language": "Lingvo",
+  "Negative Meaning": "Negativa Signifo",
+  "Positive Meaning": "Pozitiva Signifo",
+  "Translated Meaning": "Tradukita Signifo",
+  "Similar Brand": "Simila Marko",
+  "Transliteration": "Transliterumo",
+  "Terms of Service": "Reguloj de servado"
+}

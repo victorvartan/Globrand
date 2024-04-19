@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Oniyipada ayika GEMINI_API_KEY ko seto.",
+  "An error has occured": "Aṣiṣe kan ti ṣẹlẹ",
+  "No data available": "Ko si data wa",
+  "Analyze brand name": "Ṣe itupalẹ orukọ iyasọtọ",
+  "Enter your brand name": "Tẹ orukọ iyasọtọ rẹ sii",
+  "Language": "Ede",
+  "Negative Meaning": "Itumo odi",
+  "Positive Meaning": "Itumo Rere",
+  "Translated Meaning": "Itumọ Itumọ",
+  "Similar Brand": "Iru Brand",
+  "Transliteration": "Itumọ",
+  "Terms of Service": "Awọn ofin ti iṣẹ"
+}

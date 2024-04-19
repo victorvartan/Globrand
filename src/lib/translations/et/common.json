@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Keskkonnamuutujat GEMINI_API_KEY ei ole määratud.",
+  "An error has occured": "Ilmnes viga",
+  "No data available": "Andmed puuduvad",
+  "Analyze brand name": "Analüüsige kaubamärgi nime",
+  "Enter your brand name": "Sisestage oma kaubamärgi nimi",
+  "Language": "Keel",
+  "Negative Meaning": "Negatiivne tähendus",
+  "Positive Meaning": "Positiivne tähendus",
+  "Translated Meaning": "Tõlgitud tähendus",
+  "Similar Brand": "Sarnane bränd",
+  "Transliteration": "Transliteratsioon",
+  "Terms of Service": "Kasutustingimused"
+}

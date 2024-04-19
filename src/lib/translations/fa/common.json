@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "متغیر محیطی GEMINI_API_KEY تنظیم نشده است.",
+  "An error has occured": "خطایی رخ داده است",
+  "No data available": "اطلاعاتی موجود نیست",
+  "Analyze brand name": "نام برند را تحلیل کنید",
+  "Enter your brand name": "نام برند خود را وارد کنید",
+  "Language": "زبان",
+  "Negative Meaning": "معنی منفی",
+  "Positive Meaning": "معنی مثبت",
+  "Translated Meaning": "معنی ترجمه شده",
+  "Similar Brand": "برند مشابه",
+  "Transliteration": "نویسه گردانی",
+  "Terms of Service": "شرایط استفاده از خدمات"
+}

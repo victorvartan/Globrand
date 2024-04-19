@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Ndryshorja e mjedisit GEMINI_API_KEY nuk është vendosur.",
+  "An error has occured": "Nje gabim ka ndodhur",
+  "No data available": "Nuk ka të dhëna të disponueshme",
+  "Analyze brand name": "Analizoni emrin e markës",
+  "Enter your brand name": "Futni emrin e markës tuaj",
+  "Language": "Gjuhe",
+  "Negative Meaning": "Kuptimi Negativ",
+  "Positive Meaning": "Kuptimi pozitiv",
+  "Translated Meaning": "Kuptimi i përkthyer",
+  "Similar Brand": "Markë e ngjashme",
+  "Transliteration": "Transliterimi",
+  "Terms of Service": "Kushtet e Shërbimit"
+}

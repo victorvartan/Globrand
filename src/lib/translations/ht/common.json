@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Varyab anviwònman GEMINI_API_KEY pa mete.",
+  "An error has occured": "Yon erè te fèt",
+  "No data available": "Pa gen done ki disponib",
+  "Analyze brand name": "Analize non mak",
+  "Enter your brand name": "Antre non mak ou",
+  "Language": "Lang",
+  "Negative Meaning": "Siyifikasyon negatif",
+  "Positive Meaning": "Siyifikasyon pozitif",
+  "Translated Meaning": "Tradui siyifikasyon",
+  "Similar Brand": "Mak menm jan an",
+  "Transliteration": "Transliterasyon",
+  "Terms of Service": "Regleman Sèvis"
+}

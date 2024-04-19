@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY чөйрө өзгөрмөсү коюлган эмес.",
+  "An error has occured": "Ката кетти",
+  "No data available": "Дайындар жок",
+  "Analyze brand name": "Бренд аталышын талдоо",
+  "Enter your brand name": "Бренд атын киргизиңиз",
+  "Language": "Тил",
+  "Negative Meaning": "Терс маани",
+  "Positive Meaning": "Позитивдүү мааниси",
+  "Translated Meaning": "Которулган мааниси",
+  "Similar Brand": "Окшош бренд",
+  "Transliteration": "Транслитерация",
+  "Terms of Service": "Тейлөө шарттары"
+}

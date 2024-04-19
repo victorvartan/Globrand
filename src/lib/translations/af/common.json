@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Die GEMINI_API_KEY omgewingsveranderlike is nie gestel nie.",
+  "An error has occured": "'n Fout het voorgekom",
+  "No data available": "Geen data beskikbaar nie",
+  "Analyze brand name": "Ontleed handelsnaam",
+  "Enter your brand name": "Voer jou handelsnaam in",
+  "Language": "Taal",
+  "Negative Meaning": "Negatiewe Betekenis",
+  "Positive Meaning": "Positiewe Betekenis",
+  "Translated Meaning": "Vertaalde Betekenis",
+  "Similar Brand": "Soortgelyke Brand",
+  "Transliteration": "Transliterasie",
+  "Terms of Service": "Diensbepalings"
+}

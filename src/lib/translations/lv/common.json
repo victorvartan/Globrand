@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Vides mainīgais GEMINI_API_KEY nav iestatīts.",
+  "An error has occured": "Radās kļūda",
+  "No data available": "Nav pieejami dati",
+  "Analyze brand name": "Analizējiet zīmola nosaukumu",
+  "Enter your brand name": "Ievadiet sava zīmola nosaukumu",
+  "Language": "Valoda",
+  "Negative Meaning": "Negatīvā nozīme",
+  "Positive Meaning": "Pozitīva nozīme",
+  "Translated Meaning": "Tulkotā nozīme",
+  "Similar Brand": "Līdzīgs zīmols",
+  "Transliteration": "Transliterācija",
+  "Terms of Service": "Pakalpojuma noteikumi"
+}

@@ -23,7 +23,7 @@ export const analyzeBrandName = async (brandName, answerLanguage = 'en') => {
 			model.generateContent(`Given a brand name "${brandName}", return a table with at most 10 newline separated rows (no duplicates) with similar-sounding or spelled brand names that you are aware of.
         Each row should have these two columns:
         * Similar brand: The name of the similar brand in its original alphabet
-        * Transliteration: The brand name transliterated into the ${answerLanguage} locale alphabet if there's a different alphabet`)
+        * Transliteration: The brand name transliterated into the ${answerLanguage} locale alphabet if it's different from the original alphabet`)
 		]
 	);
 

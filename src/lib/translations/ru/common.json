@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Переменная среды GEMINI_API_KEY не установлена.",
+  "An error has occured": "Произошла ошибка",
+  "No data available": "Данные недоступны",
+  "Analyze brand name": "Проанализируйте название бренда",
+  "Enter your brand name": "Введите название вашего бренда",
+  "Language": "Язык",
+  "Negative Meaning": "Отрицательное значение",
+  "Positive Meaning": "Позитивное значение",
+  "Translated Meaning": "Переведенное значение",
+  "Similar Brand": "Аналогичный бренд",
+  "Transliteration": "Транслитерация",
+  "Terms of Service": "Условия использования"
+}

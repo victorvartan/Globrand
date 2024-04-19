@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY ਵਾਤਾਵਰਣ ਵੇਰੀਏਬਲ ਸੈੱਟ ਨਹੀਂ ਹੈ।",
+  "An error has occured": "ਇੱਕ ਤਰੁੱਟੀ ਆਈ ਹੈ",
+  "No data available": "ਕੋਈ ਡਾਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
+  "Analyze brand name": "ਬ੍ਰਾਂਡ ਨਾਮ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰੋ",
+  "Enter your brand name": "ਆਪਣਾ ਬ੍ਰਾਂਡ ਨਾਮ ਦਰਜ ਕਰੋ",
+  "Language": "ਭਾਸ਼ਾ",
+  "Negative Meaning": "ਨਕਾਰਾਤਮਕ ਅਰਥ",
+  "Positive Meaning": "ਸਕਾਰਾਤਮਕ ਅਰਥ",
+  "Translated Meaning": "ਅਨੁਵਾਦਿਤ ਅਰਥ",
+  "Similar Brand": "ਸਮਾਨ Brand",
+  "Transliteration": "ਲਿਪੀਅੰਤਰਨ",
+  "Terms of Service": "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ"
+}

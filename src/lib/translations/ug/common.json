@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY مۇھىت ئۆزگەرگۈچى مىقدار تەڭشەلمىدى.",
+  "An error has occured": "خاتالىق كۆرۈلدى",
+  "No data available": "سانلىق مەلۇمات يوق",
+  "Analyze brand name": "ماركا نامىنى تەھلىل قىلىڭ",
+  "Enter your brand name": "ماركا ئىسمىڭىزنى كىرگۈزۈڭ",
+  "Language": "تىل",
+  "Negative Meaning": "سەلبىي مەنىسى",
+  "Positive Meaning": "ئىجابىي مەنىسى",
+  "Translated Meaning": "تەرجىمە مەنىسى",
+  "Similar Brand": "مۇشۇنىڭغا ئوخشاش ماركا",
+  "Transliteration": "Transliteration",
+  "Terms of Service": "مۇلازىمەت شەرتلىرى"
+}

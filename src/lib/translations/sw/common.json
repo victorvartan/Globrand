@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Tofauti ya mazingira ya GEMINI_API_KEY haijawekwa.",
+  "An error has occured": "Hitilafu imetokea",
+  "No data available": "Hakuna data inayopatikana",
+  "Analyze brand name": "Changanua jina la chapa",
+  "Enter your brand name": "Ingiza jina la chapa yako",
+  "Language": "Lugha",
+  "Negative Meaning": "Maana Hasi",
+  "Positive Meaning": "Maana Chanya",
+  "Translated Meaning": "Maana Iliyotafsiriwa",
+  "Similar Brand": "Brand Sawa",
+  "Transliteration": "Unukuzi",
+  "Terms of Service": "Masharti ya Huduma"
+}

@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Variable ya environnement GEMINI_API_KEY etiamaki te.",
+  "An error has occured": "Libunga moko esalemi",
+  "No data available": "Ba données ezali te",
+  "Analyze brand name": "Analyser kombo ya marque",
+  "Enter your brand name": "Tyá nkombo ya marque na yo",
+  "Language": "Lokota",
+  "Negative Meaning": "Ndimbola ya Mabe",
+  "Positive Meaning": "Ndimbola ya malamu",
+  "Translated Meaning": "Ndimbola oyo ebongolami",
+  "Similar Brand": "Marque ya ndenge moko",
+  "Transliteration": "Kobongola na maloba mosusu",
+  "Terms of Service": "Mibeko ya Mosala"
+}

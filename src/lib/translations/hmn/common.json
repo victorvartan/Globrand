@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY ib puag ncig hloov pauv tsis tau teeb tsa.",
+  "An error has occured": "Ib qho yuam kev tau tshwm sim",
+  "No data available": "Tsis muaj ntaub ntawv",
+  "Analyze brand name": "Tshawb xyuas lub npe hom",
+  "Enter your brand name": "Sau koj lub npe hom",
+  "Language": "Lus",
+  "Negative Meaning": "Lub ntsiab lus tsis zoo",
+  "Positive Meaning": "Lub ntsiab lus zoo",
+  "Translated Meaning": "Txhais lub ntsiab lus",
+  "Similar Brand": "Similar Brand",
+  "Transliteration": "Kev txhais lus",
+  "Terms of Service": "Cov ntsiab lus ntawm Kev Pabcuam"
+}

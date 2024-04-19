@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "អថេរបរិស្ថាន GEMINI_API_KEY មិនត្រូវបានកំណត់ទេ។",
+  "An error has occured": "កំហុសមួយបានកើតឡើង",
+  "No data available": "មិនមានទិន្នន័យទេ។",
+  "Analyze brand name": "វិភាគឈ្មោះម៉ាក",
+  "Enter your brand name": "បញ្ចូលឈ្មោះម៉ាករបស់អ្នក។",
+  "Language": "ភាសា",
+  "Negative Meaning": "អត្ថន័យអវិជ្ជមាន",
+  "Positive Meaning": "អត្ថន័យវិជ្ជមាន",
+  "Translated Meaning": "អត្ថន័យបកប្រែ",
+  "Similar Brand": "ម៉ាកស្រដៀងគ្នា",
+  "Transliteration": "ការបកប្រែតាមព្យញ្ជនៈ",
+  "Terms of Service": "លក្ខខណ្ឌ​នៃ​សេវាកម្ម"
+}

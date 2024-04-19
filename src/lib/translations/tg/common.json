@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Тағйирёбандаи муҳити GEMINI_API_KEY муқаррар карда нашудааст.",
+  "An error has occured": "Хатогие рух дод",
+  "No data available": "Маълумот дастрас нест",
+  "Analyze brand name": "Номи брендро таҳлил кунед",
+  "Enter your brand name": "Номи бренди худро ворид кунед",
+  "Language": "Забон",
+  "Negative Meaning": "Маънои манфӣ",
+  "Positive Meaning": "Маънои мусбӣ",
+  "Translated Meaning": "Маънои тарҷумашуда",
+  "Similar Brand": "Бренд монанд",
+  "Transliteration": "Транслитератсия",
+  "Terms of Service": "Шартҳои хизматрасонӣ"
+}

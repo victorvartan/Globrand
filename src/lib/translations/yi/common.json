@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "די GEMINI_API_KEY סוויווע בייַטעוודיק איז נישט באַשטימט.",
+  "An error has occured": "א טעות איז פארגעקומען",
+  "No data available": "קיין דאַטן בנימצא",
+  "Analyze brand name": "פונאַנדערקלייַבן סאָרט נאָמען",
+  "Enter your brand name": "אַרייַן דיין סאָרט נאָמען",
+  "Language": "שפּראַך",
+  "Negative Meaning": "נעגאַטיוו טייַטש",
+  "Positive Meaning": "Positive טייַטש",
+  "Translated Meaning": "איבערגעזעצטע טייַטש",
+  "Similar Brand": "ענלעכע סאָרט",
+  "Transliteration": "טראַנסליטעראַטיאָן",
+  "Terms of Service": "טערמינען פון דינסט"
+}

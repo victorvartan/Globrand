@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Biến môi trường GEMINI_API_KEY chưa được đặt.",
+  "An error has occured": "Đã xảy ra lỗi",
+  "No data available": "Không có dữ liệu",
+  "Analyze brand name": "Phân tích tên thương hiệu",
+  "Enter your brand name": "Nhập tên thương hiệu của bạn",
+  "Language": "Ngôn ngữ",
+  "Negative Meaning": "Câu khẳng định",
+  "Positive Meaning": "Ý nghĩa tích cực",
+  "Translated Meaning": "Dịch nghĩa",
+  "Similar Brand": "Thương hiệu tương tự",
+  "Transliteration": "phiên âm",
+  "Terms of Service": "Điều khoản dịch vụ"
+}

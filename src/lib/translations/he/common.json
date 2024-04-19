@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "משתנה הסביבה GEMINI_API_KEY אינו מוגדר.",
+  "An error has occured": "ארעה שגיאה",
+  "No data available": "אין נתונים זמינים",
+  "Analyze brand name": "נתח את שם המותג",
+  "Enter your brand name": "הזן את שם המותג שלך",
+  "Language": "שפה",
+  "Negative Meaning": "משמעות שלילית",
+  "Positive Meaning": "משמעות חיובית",
+  "Translated Meaning": "משמעות מתורגמת",
+  "Similar Brand": "מותג דומה",
+  "Transliteration": "תַעתִיק",
+  "Terms of Service": "תנאי השירות"
+}

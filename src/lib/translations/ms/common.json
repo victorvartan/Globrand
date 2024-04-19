@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Pembolehubah persekitaran GEMINI_API_KEY tidak ditetapkan.",
+  "An error has occured": "Ralat telah berlaku",
+  "No data available": "Tiada data tersedia",
+  "Analyze brand name": "Menganalisis nama jenama",
+  "Enter your brand name": "Masukkan nama jenama anda",
+  "Language": "Bahasa",
+  "Negative Meaning": "Makna Negatif",
+  "Positive Meaning": "Makna Positif",
+  "Translated Meaning": "Maksud Diterjemah",
+  "Similar Brand": "Jenama Serupa",
+  "Transliteration": "Alih huruf",
+  "Terms of Service": "Syarat Perkhidmatan"
+}

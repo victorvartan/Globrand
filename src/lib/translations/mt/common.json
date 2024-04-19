@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Il-varjabbli ambjentali GEMINI_API_KEY mhix issettjata.",
+  "An error has occured": "Sar żball",
+  "No data available": "L-ebda dejta disponibbli",
+  "Analyze brand name": "Analizza l-isem tad-ditta",
+  "Enter your brand name": "Daħħal l-isem tad-ditta tiegħek",
+  "Language": "Lingwa",
+  "Negative Meaning": "Tifsira Negattiva",
+  "Positive Meaning": "Tifsira Pożittiva",
+  "Translated Meaning": "Tifsira tradotta",
+  "Similar Brand": "Ditta Simili",
+  "Transliteration": "Traslitterazzjoni",
+  "Terms of Service": "Termini tas-Servizz"
+}

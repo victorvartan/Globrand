@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY පරිසර විචල්‍යය සකසා නැත.",
+  "An error has occured": "දෝෂයක් සිදුවී ඇත",
+  "No data available": "ලබා ගත හැකි දත්ත නැත",
+  "Analyze brand name": "වෙළඳ නාමය විශ්ලේෂණය කරන්න",
+  "Enter your brand name": "ඔබේ වෙළඳ නාමය ඇතුළත් කරන්න",
+  "Language": "භාෂාව",
+  "Negative Meaning": "සෘණ අර්ථය",
+  "Positive Meaning": "ධනාත්මක අර්ථය",
+  "Translated Meaning": "පරිවර්තනය කළ අර්ථය",
+  "Similar Brand": "සමාන වෙළඳ නාමය",
+  "Transliteration": "අක්ෂර පරිවර්තනය",
+  "Terms of Service": "සේවා කොන්දේසි"
+}

@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY e fapaneng ea tikoloho ha e so hlophisoa.",
+  "An error has occured": "Phoso e etsahetse",
+  "No data available": "Ha ho lintlha tse fumanehang",
+  "Analyze brand name": "Sekaseka lebitso la lebitso",
+  "Enter your brand name": "Kenya lebitso la lebitso la hau",
+  "Language": "Puo",
+  "Negative Meaning": "Moelelo o Fosahetseng",
+  "Positive Meaning": "Molemo o Molemo",
+  "Translated Meaning": "Tlhaloso e Fetotsoeng",
+  "Similar Brand": "Tšoanang Brand",
+  "Transliteration": "Phetolelo",
+  "Terms of Service": "Melao ea Ts'ebeletso"
+}

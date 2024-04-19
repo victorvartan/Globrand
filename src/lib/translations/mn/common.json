@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY орчны хувьсагчийг тохируулаагүй байна.",
+  "An error has occured": "Алдаа гарлаа",
+  "No data available": "Өгөгдөл байхгүй байна",
+  "Analyze brand name": "Брэндийн нэрэнд дүн шинжилгээ хийх",
+  "Enter your brand name": "Брэнд нэрээ оруулна уу",
+  "Language": "Хэл",
+  "Negative Meaning": "Сөрөг утга",
+  "Positive Meaning": "Эерэг утга",
+  "Translated Meaning": "Орчуулсан утга",
+  "Similar Brand": "Ижил Брэнд",
+  "Transliteration": "Галиглах",
+  "Terms of Service": "Үйлчилгээний нөхцөл"
+}

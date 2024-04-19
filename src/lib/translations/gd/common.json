@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Chan eil caochladair àrainneachd GEMINI_API_KEY air a shuidheachadh.",
+  "An error has occured": "Tha mearachd air tachairt",
+  "No data available": "Chan eil dàta ri fhaighinn",
+  "Analyze brand name": "Dèan mion-sgrùdadh air ainm branda",
+  "Enter your brand name": "Cuir a-steach d’ ainm branda",
+  "Language": "Cànain",
+  "Negative Meaning": "Brìgh àicheil",
+  "Positive Meaning": "Brìgh adhartach",
+  "Translated Meaning": "Ciall eadar-theangaichte",
+  "Similar Brand": "Brand coltach ris",
+  "Transliteration": "Eadar-theangachadh",
+  "Terms of Service": "Teirmean seirbheis"
+}

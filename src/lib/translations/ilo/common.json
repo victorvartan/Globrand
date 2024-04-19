@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Ti GEMINI_API_KEY a variable ti aglawlaw ket saan a naikeddeng.",
+  "An error has occured": "Napasamak ti biddut",
+  "No data available": "Awan ti magun-od a datos",
+  "Analyze brand name": "Analisaren ti nagan ti brand",
+  "Enter your brand name": "Isuratmo ti brand name-mo",
+  "Language": "Lengguahe",
+  "Negative Meaning": "Negatibo a Kaipapanan",
+  "Positive Meaning": "Positibo a Kaipapanan",
+  "Translated Meaning": "Naipatarus a Kaipapanan",
+  "Similar Brand": "Umasping a Brand",
+  "Transliteration": "Panagpatarus",
+  "Terms of Service": "Dagiti Kondision ti Serbisio"
+}

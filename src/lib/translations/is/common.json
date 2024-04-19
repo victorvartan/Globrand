@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY umhverfisbreytan er ekki stillt.",
+  "An error has occured": "Villa hefur komið upp",
+  "No data available": "Engin gögn tiltæk",
+  "Analyze brand name": "Greindu vörumerki",
+  "Enter your brand name": "Sláðu inn vörumerki þitt",
+  "Language": "Tungumál",
+  "Negative Meaning": "Neikvæð merking",
+  "Positive Meaning": "Jákvæð merking",
+  "Translated Meaning": "Þýdd merking",
+  "Similar Brand": "Svipað vörumerki",
+  "Transliteration": "Umritun",
+  "Terms of Service": "Skilmálar þjónustu"
+}

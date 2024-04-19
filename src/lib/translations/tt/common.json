@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY мохит үзгәрүчесе куелмаган.",
+  "An error has occured": "Хата килеп чыкты",
+  "No data available": "Мәгълүмат юк",
+  "Analyze brand name": "Бренд исемен анализлау",
+  "Enter your brand name": "Бренд исемегезне кертегез",
+  "Language": "Тел",
+  "Negative Meaning": "Тискәре мәгънә",
+  "Positive Meaning": "Уңай мәгънә",
+  "Translated Meaning": "Тәрҗемә ителгән мәгънә",
+  "Similar Brand": "Охшаш бренд",
+  "Transliteration": "Транслитерация",
+  "Terms of Service": "Куллану шартлары"
+}

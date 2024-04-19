@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY გარემოს ცვლადი არ არის დაყენებული.",
+  "An error has occured": "Მოხდა შეცდომა",
+  "No data available": "Მონაცემები ხელმისაწვდომი არაა",
+  "Analyze brand name": "გაანალიზეთ ბრენდის სახელი",
+  "Enter your brand name": "შეიყვანეთ თქვენი ბრენდის სახელი",
+  "Language": "Ენა",
+  "Negative Meaning": "უარყოფითი მნიშვნელობა",
+  "Positive Meaning": "პოზიტიური მნიშვნელობა",
+  "Translated Meaning": "თარგმნილი მნიშვნელობა",
+  "Similar Brand": "მსგავსი ბრენდი",
+  "Transliteration": "ტრანსლიტერაცია",
+  "Terms of Service": "Მომსახურების პირობები"
+}

@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Ba a saita canjin yanayi GEMINI_API_KEY.",
+  "An error has occured": "An sami kuskure",
+  "No data available": "Babu bayanai samuwa",
+  "Analyze brand name": "Yi nazarin sunan alamar",
+  "Enter your brand name": "Shigar da sunan alamar ku",
+  "Language": "Harshe",
+  "Negative Meaning": "Ma'ana mara kyau",
+  "Positive Meaning": "Ma'ana Mai Kyau",
+  "Translated Meaning": "Ma'anar Fassara",
+  "Similar Brand": "Makamantan Alamar",
+  "Transliteration": "Tafsiri",
+  "Terms of Service": "Sharuɗɗan Sabis"
+}

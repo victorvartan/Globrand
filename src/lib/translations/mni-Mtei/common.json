@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY ꯑꯦꯅꯚꯥꯏꯔꯅꯃꯦꯟꯇ ꯚꯦꯔꯤꯑꯦꯕꯜ ꯑꯗꯨ ꯁꯦꯠ ꯇꯧꯗꯦ꯫",
+  "An error has occured": "ꯑꯁꯣꯌꯕꯥ ꯑꯃꯥ ꯊꯣꯀꯈ꯭ꯔꯦ꯫",
+  "No data available": "ꯗꯦꯇꯥ ꯑꯃꯠꯇꯥ ꯐꯪꯗꯦ꯫",
+  "Analyze brand name": "ꯕ꯭ꯔꯥꯟꯗ ꯅꯦꯝ ꯑꯦꯅꯥꯂꯥꯏꯖ ꯇꯧꯕꯥ꯫",
+  "Enter your brand name": "ꯅꯍꯥꯛꯀꯤ ꯕ꯭ꯔꯥꯟꯗ ꯅꯦꯝ ꯑꯗꯨ ꯑꯦꯟꯇꯔ ꯇꯧꯔꯣ꯫",
+  "Language": "ꯂꯣꯜ",
+  "Negative Meaning": "ꯅꯦꯒꯦꯇꯤꯕ ꯃꯤꯅꯤꯡ꯫",
+  "Positive Meaning": "ꯄꯣꯖꯤꯇꯤꯕ ꯑꯣꯏꯕꯥ ꯑꯔꯊ꯫",
+  "Translated Meaning": "ꯍꯟꯗꯣꯀꯄꯥ ꯑꯔꯊ꯫",
+  "Similar Brand": "ꯃꯁꯤꯒꯥ ꯃꯥꯟꯅꯕꯥ ꯕ꯭ꯔꯥꯟꯗ꯫",
+  "Transliteration": "ꯇ꯭ꯔꯥꯟꯁꯂꯤꯇꯦꯁꯟ ꯇꯧꯕꯥ꯫",
+  "Terms of Service": "ꯁꯔꯚꯤꯁꯀꯤ ꯇꯔꯃꯁꯤꯡ꯫"
+}

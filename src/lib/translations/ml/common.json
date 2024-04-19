@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY എൻവയോൺമെൻ്റ് വേരിയബിൾ സജ്ജീകരിച്ചിട്ടില്ല.",
+  "An error has occured": "ഒരു പിശക് സംഭവിച്ചു",
+  "No data available": "ഡാറ്റ ലഭ്യമല്ല",
+  "Analyze brand name": "ബ്രാൻഡ് നാമം വിശകലനം ചെയ്യുക",
+  "Enter your brand name": "നിങ്ങളുടെ ബ്രാൻഡ് നാമം നൽകുക",
+  "Language": "ഭാഷ",
+  "Negative Meaning": "നെഗറ്റീവ് അർത്ഥം",
+  "Positive Meaning": "പോസിറ്റീവ് അർത്ഥം",
+  "Translated Meaning": "വിവർത്തനം ചെയ്ത അർത്ഥം",
+  "Similar Brand": "സമാനമായ ബ്രാൻഡ്",
+  "Transliteration": "ലിപ്യന്തരണം",
+  "Terms of Service": "സേവന നിബന്ധനകൾ"
+}

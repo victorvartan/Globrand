@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "A variabile d'ambiente GEMINI_API_KEY ùn hè micca stabilita.",
+  "An error has occured": "Un errore hè accadutu",
+  "No data available": "Nisuna dati dispunibuli",
+  "Analyze brand name": "Analizà u nome di a marca",
+  "Enter your brand name": "Inserite u vostru nome di marca",
+  "Language": "Lingua",
+  "Negative Meaning": "Significatu negativu",
+  "Positive Meaning": "Significatu pusitivu",
+  "Translated Meaning": "Significatu traduttu",
+  "Similar Brand": "Marca simile",
+  "Transliteration": "Traslitterazione",
+  "Terms of Service": "Termini di serviziu"
+}

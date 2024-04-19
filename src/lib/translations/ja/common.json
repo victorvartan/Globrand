@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY 環境変数が設定されていません。",
+  "An error has occured": "エラーが発生しました",
+  "No data available": "データなし",
+  "Analyze brand name": "ブランド名を分析する",
+  "Enter your brand name": "ブランド名を入力してください",
+  "Language": "言語",
+  "Negative Meaning": "否定的な意味",
+  "Positive Meaning": "ポジティブな意味",
+  "Translated Meaning": "翻訳された意味",
+  "Similar Brand": "類似ブランド",
+  "Transliteration": "音訳",
+  "Terms of Service": "利用規約"
+}

@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Nid yw'r newidyn amgylchedd GEMINI_API_KEY wedi'i osod.",
+  "An error has occured": "Mae gwall wedi digwydd",
+  "No data available": "Dim data ar gael",
+  "Analyze brand name": "Dadansoddwch enw brand",
+  "Enter your brand name": "Rhowch eich enw brand",
+  "Language": "Iaith",
+  "Negative Meaning": "Ystyr Negyddol",
+  "Positive Meaning": "Ystyr Cadarnhaol",
+  "Translated Meaning": "Ystyr Cyfieithu",
+  "Similar Brand": "Brand tebyg",
+  "Transliteration": "Trawslythrennu",
+  "Terms of Service": "Telerau Gwasanaeth"
+}

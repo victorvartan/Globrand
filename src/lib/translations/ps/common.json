@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "د GEMINI_API_KEY چاپیریال متغیر ندی ټاکل شوی.",
+  "An error has occured": "یوه تېروتنه رامنځته شوې ده",
+  "No data available": "هیڅ معلومات شتون نلري",
+  "Analyze brand name": "د برانډ نوم تحلیل کړئ",
+  "Enter your brand name": "خپل د برانډ نوم دننه کړئ",
+  "Language": "ژبه",
+  "Negative Meaning": "منفي معنی",
+  "Positive Meaning": "مثبت معنی",
+  "Translated Meaning": "ژباړل شوی مطلب",
+  "Similar Brand": "ورته برانډ",
+  "Transliteration": "ژباړه",
+  "Terms of Service": "د خدمت شرطونه"
+}

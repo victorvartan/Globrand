@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "La variable d'entorn GEMINI_API_KEY no està establerta.",
+  "An error has occured": "S'ha produït un error",
+  "No data available": "No hi ha dades disponibles",
+  "Analyze brand name": "Analitzar el nom de la marca",
+  "Enter your brand name": "Introduïu el vostre nom de marca",
+  "Language": "Llenguatge",
+  "Negative Meaning": "Significat negatiu",
+  "Positive Meaning": "Significat positiu",
+  "Translated Meaning": "Significat traduït",
+  "Similar Brand": "Marca similar",
+  "Transliteration": "Transliteració",
+  "Terms of Service": "Termes del servei"
+}

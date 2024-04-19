@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY পৰিৱেশ চলক সংহতি কৰা হোৱা নাই।",
+  "An error has occured": "এটা ভুল হৈছে",
+  "No data available": "কোনো তথ্য উপলব্ধ নহয়",
+  "Analyze brand name": "ব্ৰেণ্ডৰ নাম বিশ্লেষণ কৰক",
+  "Enter your brand name": "আপোনাৰ ব্ৰেণ্ড নাম লিখক",
+  "Language": "ভাষা",
+  "Negative Meaning": "ঋণাত্মক অৰ্থ",
+  "Positive Meaning": "ধনাত্মক অৰ্থ",
+  "Translated Meaning": "অনুবাদিত অৰ্থ",
+  "Similar Brand": "একেধৰণৰ ব্ৰেণ্ড",
+  "Transliteration": "লিপ্যন্তৰ",
+  "Terms of Service": "সেৱাৰ চৰ্তসমূহ"
+}

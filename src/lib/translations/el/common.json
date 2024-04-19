@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Η μεταβλητή περιβάλλοντος GEMINI_API_KEY δεν έχει οριστεί.",
+  "An error has occured": "Παρουσιάστηκε σφάλμα",
+  "No data available": "Δεν υπάρχουν διαθέσιμα δεδομένα",
+  "Analyze brand name": "Αναλύστε το εμπορικό σήμα",
+  "Enter your brand name": "Εισαγάγετε την επωνυμία σας",
+  "Language": "Γλώσσα",
+  "Negative Meaning": "Αρνητική σημασία",
+  "Positive Meaning": "Θετική σημασία",
+  "Translated Meaning": "Μεταφρασμένο νόημα",
+  "Similar Brand": "Παρόμοια μάρκα",
+  "Transliteration": "Μεταγραφή",
+  "Terms of Service": "Όροι χρήσης"
+}

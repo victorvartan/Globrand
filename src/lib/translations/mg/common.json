@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Ny fari-piainana GEMINI_API_KEY dia tsy napetraka.",
+  "An error has occured": "Nisy hadisoana nitranga",
+  "No data available": "Tsy misy angona azo",
+  "Analyze brand name": "Diniho ny anaran'ny marika",
+  "Enter your brand name": "Ampidiro ny anaranao marika",
+  "Language": "Fiteny",
+  "Negative Meaning": "Heviny ratsy",
+  "Positive Meaning": "Heviny tsara",
+  "Translated Meaning": "Dikateny Dikateny",
+  "Similar Brand": "Marika mitovy",
+  "Transliteration": "Fandikan-teny",
+  "Terms of Service": "Fepetran'ny serivisy"
+}

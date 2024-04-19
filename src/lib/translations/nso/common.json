@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Phetogo ya tikologo ya GEMINI_API_KEY ga se ya bewa.",
+  "An error has occured": "Phošo e diregile",
+  "No data available": "Ga go na data yeo e lego gona",
+  "Analyze brand name": "Sekaseka leina la leina",
+  "Enter your brand name": "Tsenya leina la gago la leina",
+  "Language": "Polelo",
+  "Negative Meaning": "Bokao bjo bo fošagetšego",
+  "Positive Meaning": "Bokao bjo bobotse",
+  "Translated Meaning": "Bokao bjo bo Fetoletšwego",
+  "Similar Brand": "Brand e swanago",
+  "Transliteration": "Phetolelo ya dingwalo",
+  "Terms of Service": "Melawana ya Tirelo"
+}

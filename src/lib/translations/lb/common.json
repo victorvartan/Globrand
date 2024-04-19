@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "D'GEMINI_API_KEY Ëmfeld Variabel ass net agestallt.",
+  "An error has occured": "E Feeler ass geschitt",
+  "No data available": "Keng Daten verfügbar",
+  "Analyze brand name": "Markennumm analyséieren",
+  "Enter your brand name": "Gitt Äre Markennumm un",
+  "Language": "Sprooch",
+  "Negative Meaning": "Negativ Bedeitung",
+  "Positive Meaning": "Positiv Bedeitung",
+  "Translated Meaning": "Iwwersat Bedeitung",
+  "Similar Brand": "Ähnlech Mark",
+  "Transliteration": "Transliteratioun",
+  "Terms of Service": "Konditioune vum Service"
+}

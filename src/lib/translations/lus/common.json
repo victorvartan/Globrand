@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY environment variable chu set a ni lo.",
+  "An error has occured": "Error a awm ta",
+  "No data available": "Data a awm lo",
+  "Analyze brand name": "Brand hming thlirlet rawh",
+  "Enter your brand name": "I brand hming kha ziak lut rawh",
+  "Language": "Tawng",
+  "Negative Meaning": "Negative awmzia",
+  "Positive Meaning": "Positive awmzia",
+  "Translated Meaning": "Lehlin awmzia",
+  "Similar Brand": "Brand inang chiah chiah",
+  "Transliteration": "Thu leh hla lehlin (transliteration).",
+  "Terms of Service": "Hnathawh dan tur (terms of Service)."
+}

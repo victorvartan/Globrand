@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Miljövariabeln GEMINI_API_KEY är inte inställd.",
+  "An error has occured": "Ett fel har uppstått",
+  "No data available": "Ingen data tillgänglig",
+  "Analyze brand name": "Analysera varumärket",
+  "Enter your brand name": "Ange ditt varumärke",
+  "Language": "Språk",
+  "Negative Meaning": "Negativ betydelse",
+  "Positive Meaning": "Positiv betydelse",
+  "Translated Meaning": "Översatt betydelse",
+  "Similar Brand": "Liknande märke",
+  "Transliteration": "Translitterering",
+  "Terms of Service": "Användarvillkor"
+}

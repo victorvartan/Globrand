@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "A GEMINI_API_KEY környezeti változó nincs beállítva.",
+  "An error has occured": "Hiba történt",
+  "No data available": "Nincs elérhető adat",
+  "Analyze brand name": "A márkanév elemzése",
+  "Enter your brand name": "Adja meg márkanevét",
+  "Language": "Nyelv",
+  "Negative Meaning": "Negatív Jelentés",
+  "Positive Meaning": "Pozitív Jelentés",
+  "Translated Meaning": "Fordított Jelentés",
+  "Similar Brand": "Hasonló márka",
+  "Transliteration": "Transzliteráció",
+  "Terms of Service": "Szolgáltatás feltételei"
+}

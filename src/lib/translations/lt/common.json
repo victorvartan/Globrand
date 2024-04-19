@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Aplinkos kintamasis GEMINI_API_KEY nenustatytas.",
+  "An error has occured": "Įvyko klaida",
+  "No data available": "Nėra duomenų",
+  "Analyze brand name": "Išanalizuokite prekės pavadinimą",
+  "Enter your brand name": "Įveskite savo prekės pavadinimą",
+  "Language": "Kalba",
+  "Negative Meaning": "Neigiama prasmė",
+  "Positive Meaning": "Teigiama prasmė",
+  "Translated Meaning": "Išversta prasmė",
+  "Similar Brand": "Panašus prekės ženklas",
+  "Transliteration": "Transliteracija",
+  "Terms of Service": "Paslaugų teikimo sąlygos"
+}

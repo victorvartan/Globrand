@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Ympäristömuuttujaa GEMINI_API_KEY ei ole asetettu.",
+  "An error has occured": "Tapahtui virhe",
+  "No data available": "Tietoja ei ole saatavilla",
+  "Analyze brand name": "Analysoi tuotemerkki",
+  "Enter your brand name": "Kirjoita tuotemerkkisi",
+  "Language": "Kieli",
+  "Negative Meaning": "Negatiivinen merkitys",
+  "Positive Meaning": "Positiivinen merkitys",
+  "Translated Meaning": "Käännetty merkitys",
+  "Similar Brand": "Samanlainen merkki",
+  "Transliteration": "Translitterointi",
+  "Terms of Service": "Käyttöehdot"
+}

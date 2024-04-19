@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY ပတ်၀န်းကျင် ကိန်းရှင်ကို သတ်မှတ်မထားပါ။",
+  "An error has occured": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။",
+  "No data available": "ဒေတာမရရှိနိုင်ပါ။",
+  "Analyze brand name": "အမှတ်တံဆိပ်အမည်ကို ပိုင်းခြားစိတ်ဖြာပါ။",
+  "Enter your brand name": "သင့်အမှတ်တံဆိပ်အမည်ကို ထည့်သွင်းပါ။",
+  "Language": "ဘာသာစကား",
+  "Negative Meaning": "အနုတ်လက္ခဏာ",
+  "Positive Meaning": "အပြုသဘောဆောင်သောအဓိပ္ပါယ်",
+  "Translated Meaning": "ဘာသာပြန်ဆိုချက်",
+  "Similar Brand": "ပုံစံတူ Brand",
+  "Transliteration": "စကားအသုံးအနှုန်း",
+  "Terms of Service": "ဝန်ဆောင်မှုစည်းမျဉ်းများ"
+}

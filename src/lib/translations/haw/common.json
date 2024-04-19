@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "ʻAʻole i hoʻonohonoho ʻia ka hoʻololi kaiapuni GEMINI_API_KEY.",
+  "An error has occured": "Ua hala kekahi hewa",
+  "No data available": "ʻAʻohe ʻikepili i loaʻa",
+  "Analyze brand name": "E noʻonoʻo i ka inoa inoa",
+  "Enter your brand name": "E hoʻokomo i kāu inoa inoa",
+  "Language": "ʻŌlelo",
+  "Negative Meaning": "Manaʻo ʻino",
+  "Positive Meaning": "Manaʻo maikaʻi",
+  "Translated Meaning": "Unuhi ʻia ke ʻano",
+  "Similar Brand": "Kaulana like",
+  "Transliteration": "Unuhi huaʻōlelo",
+  "Terms of Service": "Kūlana o ka lawelawe"
+}

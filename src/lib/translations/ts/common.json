@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Xihlawulekisi xa mbango xa GEMINI_API_KEY a xi vekiwanga.",
+  "An error has occured": "Ku humelerile xihoxo",
+  "No data available": "Ku hava data leyi kumekaka",
+  "Analyze brand name": "Nxopaxopo vito ra brand",
+  "Enter your brand name": "Nghenisa vito ra wena ra brand",
+  "Language": "Ririmi",
+  "Negative Meaning": "Nhlamuselo yo biha",
+  "Positive Meaning": "Nhlamuselo Leyinene",
+  "Translated Meaning": "Nhlamuselo leyi Hundzuluxiweke",
+  "Similar Brand": "Brand leyi fanaka",
+  "Transliteration": "Ku hundzuluxela ka matsalelo",
+  "Terms of Service": "Mimpimanyeto ya Ntirho"
+}

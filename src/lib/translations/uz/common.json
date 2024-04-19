@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY muhit oʻzgaruvchisi oʻrnatilmagan.",
+  "An error has occured": "Xatolik yuz berdi",
+  "No data available": "Maʼlumotlar mavjud emas",
+  "Analyze brand name": "Brend nomini tahlil qiling",
+  "Enter your brand name": "Brend nomingizni kiriting",
+  "Language": "Til",
+  "Negative Meaning": "Salbiy ma'no",
+  "Positive Meaning": "Ijobiy ma'no",
+  "Translated Meaning": "Tarjima qilingan ma'no",
+  "Similar Brand": "O'xshash brend",
+  "Transliteration": "Transliteratsiya",
+  "Terms of Service": "Xizmat ko'rsatish shartlari"
+}

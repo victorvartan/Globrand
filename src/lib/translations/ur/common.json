@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY ماحولیاتی متغیر سیٹ نہیں ہے۔",
+  "An error has occured": "ایک خرابی آگئی ہے",
+  "No data available": "اعداد و شمار دستیاب نہیں",
+  "Analyze brand name": "برانڈ نام کا تجزیہ کریں۔",
+  "Enter your brand name": "اپنے برانڈ کا نام درج کریں۔",
+  "Language": "زبان",
+  "Negative Meaning": "منفی معنی",
+  "Positive Meaning": "مثبت معنی",
+  "Translated Meaning": "ترجمہ شدہ معنی",
+  "Similar Brand": "ملتے جلتے برانڈ",
+  "Transliteration": "نقل حرفی",
+  "Terms of Service": "سروس کی شرائط"
+}

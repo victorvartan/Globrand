@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY ingurune-aldagaia ez dago ezarrita.",
+  "An error has occured": "Errore bat gertatu da",
+  "No data available": "Ez dago daturik eskuragarri",
+  "Analyze brand name": "Markaren izena aztertu",
+  "Enter your brand name": "Sartu zure marka izena",
+  "Language": "Hizkuntza",
+  "Negative Meaning": "Esanahi negatiboa",
+  "Positive Meaning": "Esanahi positiboa",
+  "Translated Meaning": "Esanahia itzulia",
+  "Similar Brand": "Antzeko marka",
+  "Transliteration": "Transliterazioa",
+  "Terms of Service": "Zerbitzu-baldintzak"
+}

@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "Ole suiga ole siosiomaga GEMINI_API_KEY e le'o setiina.",
+  "An error has occured": "Ua tupu se mea sese",
+  "No data available": "E leai ni fa'amatalaga e maua",
+  "Analyze brand name": "Iloilo igoa fa'ailoga",
+  "Enter your brand name": "Ulufale lou igoa fa'ailoga",
+  "Language": "Gagana",
+  "Negative Meaning": "Uiga Leaga",
+  "Positive Meaning": "Uiga Lelei",
+  "Translated Meaning": "Uiga Faaliliu",
+  "Similar Brand": "Fa'ailoga tutusa",
+  "Transliteration": "Faaliliuga",
+  "Terms of Service": "Tuutuuga o Auaunaga"
+}

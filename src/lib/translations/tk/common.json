@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY gurşaw üýtgeýjisi düzülmedi.",
+  "An error has occured": "Erroralňyşlyk ýüze çykdy",
+  "No data available": "Maglumat ýok",
+  "Analyze brand name": "Markanyň adyny derňäň",
+  "Enter your brand name": "Marka adyňyzy giriziň",
+  "Language": "Dil",
+  "Negative Meaning": "Ativearamaz manysy",
+  "Positive Meaning": "Oňyn many",
+  "Translated Meaning": "Terjime edilen many",
+  "Similar Brand": "Meňzeş marka",
+  "Transliteration": "Terjime",
+  "Terms of Service": "Hyzmat şertleri"
+}

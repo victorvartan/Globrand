@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY 환경 변수가 설정되지 않았습니다.",
+  "An error has occured": "오류가 발생되었다",
+  "No data available": "자료 없음",
+  "Analyze brand name": "브랜드 이름 분석",
+  "Enter your brand name": "브랜드 이름을 입력하세요",
+  "Language": "언어",
+  "Negative Meaning": "부정적인 의미",
+  "Positive Meaning": "긍정적인 의미",
+  "Translated Meaning": "번역된 의미",
+  "Similar Brand": "유사한 브랜드",
+  "Transliteration": "음역",
+  "Terms of Service": "서비스 약관"
+}

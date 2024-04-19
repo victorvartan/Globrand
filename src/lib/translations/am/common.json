@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "የGEMINI_API_KEY አካባቢ ተለዋዋጭ አልተዘጋጀም።",
+  "An error has occured": "ስህተት ተፈጥሯል።",
+  "No data available": "ምንም ውሂብ አይገኝም",
+  "Analyze brand name": "የምርት ስምን ይተንትኑ",
+  "Enter your brand name": "የምርት ስምዎን ያስገቡ",
+  "Language": "ቋንቋ",
+  "Negative Meaning": "አሉታዊ ትርጉም",
+  "Positive Meaning": "አዎንታዊ ትርጉም",
+  "Translated Meaning": "የተተረጎመ ትርጉም",
+  "Similar Brand": "ተመሳሳይ የምርት ስም",
+  "Transliteration": "በቋንቋ ፊደል መጻፍ",
+  "Terms of Service": "የአገልግሎት ውል"
+}

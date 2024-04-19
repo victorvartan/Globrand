@@ -1,0 +1,14 @@
+{
+  "The GEMINI_API_KEY environment variable is not set.": "GEMINI_API_KEY 环境变量未设置。",
+  "An error has occured": "发生错误",
+  "No data available": "无可用数据",
+  "Analyze brand name": "分析品牌名称",
+  "Enter your brand name": "输入您的品牌名称",
+  "Language": "语言",
+  "Negative Meaning": "负面意义",
+  "Positive Meaning": "积极意义",
+  "Translated Meaning": "翻译意思",
+  "Similar Brand": "类似品牌",
+  "Transliteration": "音译",
+  "Terms of Service": "服务条款"
+}
