@@ -22,7 +22,7 @@
         </svg>
         <label for="language" id="targetLanguageLabel" class="ml-1">{$t('Language')}</label>
         
-        <select name="language" aria-labelledby="targetLanguageLabel" class="dark: bg-black ml-1" bind:value={language} on:change={onlanguagechange}>
+        <select name="language" aria-labelledby="targetLanguageLabel" class="dark:bg-black ml-1" bind:value={language} on:change={onlanguagechange}>
             {#each languages as { value, name }}
                 <option value={value}>{name}</option>
             {/each}

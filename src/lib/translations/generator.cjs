@@ -4,6 +4,8 @@ This will use Google Translate to generate translations for all languages in the
 If you wanto to re-generate files for one or more languages, you can remove the folders for those languages and run the script again. 
  **/
 
+// todo: needs better async handling, see console output when generating the translations...
+
 const fs = require('fs');
 const path = require('path');
 const { Translate } = require('@google-cloud/translate').v2;
