@@ -1,38 +1,37 @@
-# create-svelte
+# About Globrand
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Naming things is not easy!
 
-## Creating a project
+Choosing a good brand name is hard enough in your local market.
 
-If you're seeing this, you've probably already done this step. Congrats!
+But as you grow, you might find the same name that made sense locally could be horrible for another market.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Globrand helps you identify some of the pros and cons of a brand name for different languages, as well as find similar existing brand names.
 
-# create a new project in my-app
-npm create svelte@latest my-app
+# Setting up your local environment
+
+1. Clone this repo
+2. npm i
+3. Add a .env file at the root of the project folder (i.e. one level higher than the src folder) with these values:
 ```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+PUBLIC_RECAPTCHA_SITE_KEY=
+RECAPTCHA_SECRET_KEY=
+GEMINI_API_KEY=
 ```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
+Optionally, if you want to run the script that generates translations with the help of Google Translate API, add these values as well:
 ```
+GOOGLE_TRANSLATE_CLIENT_EMAIL=
+GOOGLE_TRANSLATE_PRIVATE_KEY=
+GOOGLE_TRANSLATE_PROJECT_ID=
+```
+4. npm run dev
 
-You can preview the production build with `npm run preview`.
+# Notes
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Make sure you are in a country that has access to the Gemini API, otherwise use a VPN before using the website.
+
+Please note that Globrand might display inaccurate info, so always double-check its responses.
+
+By using Globrand you agree to the terms of service. Do not input any sensitive information.
+
+Enjoy!
