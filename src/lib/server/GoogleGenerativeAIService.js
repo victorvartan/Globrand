@@ -1,11 +1,21 @@
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from '@google/generative-ai';
 import { env } from '$env/dynamic/private';
 
 export const analyzeBrandName = async (brandName, answerLanguage = 'en') => {
 	if (brandName.toLowerCase() == 'pajero' && answerLanguage == 'en') return analyzeBrandNameTest();
 
 	const genAI = new GoogleGenerativeAI(env.GEMINI_API_KEY);
-	const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
+	const model = genAI.getGenerativeModel({
+		model: 'gemini-pro',
+		generationConfig: {
+			temperature: 0.7
+		}
+	});
+
+	Object.keys(HarmCategory).forEach((category) => {
+		model.safetySettings[category] = HarmBlockThreshold.BLOCK_NONE;
+	});
+
 	brandName = brandName.trim().replace(/"/g, ''); // todo: add a better prompt injection attack guard than just removing the quotes inside brandName
 
 	const [negativeMeaningsRequest, positiveMeaningsRequest, similarNamesRequest] = await Promise.all(
@@ -13,12 +23,12 @@ export const analyzeBrandName = async (brandName, answerLanguage = 'en') => {
 			model.generateContent(`Given a brand name "${brandName}", return a table with newline separated rows for languages where a similar-sounding or spelled name has a negative meaning.
         Each row should have these three columns:
         * Language: The name of the language as written in the ${answerLanguage} locale with its native name in paranthesis e.g., French (Français)
-        * Negative Meaning: Negative meaning of the brand name itself or a similar name in that language
-        * Translated Meaning: The positive meaning translated into the ${answerLanguage} locale`),
+        * Negative Meaning: Negative meaning of the brand name itself or a similar name in that language and alphabet
+        * Translated Meaning: The negative meaning translated into the ${answerLanguage} locale`),
 			model.generateContent(`Given a brand name "${brandName}", return a table with newline separated rows for languages where a similar-sounding or spelled name has a positive meaning.
         Each row should have these three columns:
         * Language: The name of the language as written in the ${answerLanguage} locale with its native name in paranthesis e.g., French (Français)
-        * Positive Meaning: Positive meaning of the brand name itself or a similar name in that language
+        * Positive Meaning: Positive meaning of the brand name itself or a similar name in that language and alphabet
         * Translated Meaning: The positive meaning translated into the ${answerLanguage} locale`),
 			model.generateContent(`Given a brand name "${brandName}", return a table with at most 10 newline separated rows (no duplicates) with similar-sounding or spelled brand names that you are aware of.
         Each row should have these two columns:
